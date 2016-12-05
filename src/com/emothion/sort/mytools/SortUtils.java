@@ -27,7 +27,6 @@ public class SortUtils {
 	 * @date: 2016年11月25日 下午8:40:23
 	 */
 	public List<Map<String, Object>> directInsertSort(List<Map<String, Object>> list, String key) {
-		
 		return null;
 	}
 }
