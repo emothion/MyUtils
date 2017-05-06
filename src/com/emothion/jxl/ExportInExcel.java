@@ -1,4 +1,4 @@
-package com.emothion.poi;
+package com.emothion.jxl;
 
 import java.io.File;
 import java.io.FileOutputStream;
